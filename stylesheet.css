@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Jersey+20&display=swap');
+
+
+p {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+a {
+  text-decoration: none;
+  color: rgba(87, 87, 87, 0.784);
+}
+a:hover {
+  color: rgb(126, 88, 11);
+}
+.large_title {
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 300;
+  font-size: 65px;
+  text-align: center;
+}
+.card {
+  text-align: center;
+  background: rgb(234, 189, 99);
+  padding: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 3%;
+  margin: 10px;
+  padding: 5%;
+}
+
+.img_circle {
+  border-radius: 50%;
+}
+.card h4 {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-align: center;
+}
+#pfp {
+  height: 90px;
+  width: 90px;
+}
+#pfp:hover {
+  display: none;
+}
+h3 {
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+  text-align: center;
+}
+
+i {
+  font-size: 30px;
+}
